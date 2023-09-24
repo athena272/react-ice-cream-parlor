@@ -34,6 +34,10 @@ header nav {
     text-decoration: none;
 }
 
+.link-topo:hover {
+    color: rgba(0, 0, 0, .322)
+}
+
 @media screen and (max-width: 662px) {
     header div {
         flex-direction: column;
