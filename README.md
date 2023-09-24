@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# AWS-Node-API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre o projeto 
 
-## Available Scripts
+Este repositório contém um projeto de API simples desenvolvido em Node.js, sem a utilização de nenhum pacote externo como o Express ou qualquer outro framework. A API é focada em operações CRUD (Create, Read, Update, Delete) para a gestão de usuários.
 
-In the project directory, you can run:
+Este projeto é uma excelente opção para desenvolvedores iniciantes que desejam aprender e praticar os conceitos básicos de criação de APIs em Node.js, utilizando apenas os recursos nativos do Node. 
 
-### `npm start`
+É uma ótima oportunidade de entender como as operações CRUD são implementadas em uma API e como organizar e estruturar o código de forma modular e escalável. Além disso, é um ótimo recurso para desenvolvedores experientes que buscam uma referência ou um ponto de partida para criar uma API simples e customizada sem a utilização de pacotes externos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Link de [Acesso](https://aws-node-api.onrender.com/users)
+## Url: https://aws-node-api.onrender.com/users
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologias
+- Javascript <img align="center" alt="Gui-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+- NodeJS <img align="center" alt="Gui-NodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+         
+## Como executar
 
-### `npm test`
+Clone este repositório em sua máquina local.
+Abra o terminal na pasta do projeto e execute o seguinte comando para rodar o projeto
+```bash
+node src/index.js
+```
+![image](https://github.com/athena272/aws-node-api/assets/58920070/38df4468-6a00-4337-83b8-83fec4654e84)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Urls usadas para teste local e em deploy
+![image](https://github.com/athena272/aws-node-api/assets/58920070/c9ad0377-189e-4a4b-84b4-12733863fe96)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## List Users
+![image](https://github.com/athena272/aws-node-api/assets/58920070/971f339b-ff10-4a0c-b35f-f20e7b54a101)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# List User By Id
+![image](https://github.com/athena272/aws-node-api/assets/58920070/f61e4c12-501b-471c-b913-fe46431e6dd7)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# List Users OrderDesc
+![image](https://github.com/athena272/aws-node-api/assets/58920070/b6b30999-2f9c-4866-992b-42343ec1c1d3)
 
-### `npm run eject`
+# Create User
+![image](https://github.com/athena272/aws-node-api/assets/58920070/a5dbb9c0-5cc5-4320-aedc-913b2260dbbf)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/athena272/aws-node-api/assets/58920070/25d2686e-00ad-4894-a158-7c6985171117)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Update User
+![image](https://github.com/athena272/aws-node-api/assets/58920070/acb1f9da-d34a-4f11-b8a5-4f4f9173ae38)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://github.com/athena272/aws-node-api/assets/58920070/3b77c93f-9bad-4803-8178-ee5a28882d4b)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Delete User
+![image](https://github.com/athena272/aws-node-api/assets/58920070/0e368d96-7972-4174-b25a-1397a30edde9)
 
-## Learn More
+![image](https://github.com/athena272/aws-node-api/assets/58920070/80e716b7-6e19-4ebd-9280-be99e9d65848)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Link de [Acesso](https://aws-node-api.onrender.com/users)
+## Url: https://aws-node-api.onrender.com/users
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
