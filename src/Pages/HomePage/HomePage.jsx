@@ -14,7 +14,7 @@ const HomePage = () => (
             </section>
 
             <section className="secao-nossos-sabores">
-                <img src="assets/banner-sabores.jpg" alt="sorvetes diversos" />
+                <img src="assets/banner-sabores.jpg" alt="sorvetes diversos" loading='lazy'width={675} height={528}/>
                 <div className="texto-secao-nossos-sabores">
                     <h2>NOSSOS SABORES</h2>
                     <span>Novos e deliciosos!</span>
@@ -38,11 +38,11 @@ const HomePage = () => (
                         sorvete da sua vida! Venha nos conhecer e passar um tempo aqui com a gente.
                     </p>
                 </div>
-                <img src="assets/eventos-image.jpg" alt="mesa de festa" />
+                <img src="assets/eventos-image.jpg" alt="mesa de festa" loading='lazy' width={675} height={476}/>
             </section>
 
             <section className="secao-sobre-nos">
-                <img src="assets/sobre-image.jpg" alt="pessoas comendo sorvete" />
+                <img src="assets/sobre-image.jpg" alt="pessoas comendo sorvete" loading='lazy' width={675} height={502}/>
                 <div className="texto-secao-sobre-nos">
                     <h2>SOBRE NÓS</h2>
                     <span>Alegria em cada casquinha!</span>
