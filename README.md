@@ -15,7 +15,14 @@ Este projeto é uma excelente opção para desenvolvedores iniciantes que deseja
 - Javascript <img align="center" alt="Gui-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 - NodeJS <img align="center" alt="Gui-NodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
          
-## Como executar
+## Lighthouse metrics
+
+### Desktop
+
+![image](https://github.com/athena272/ice-cream-parlor-react/assets/58920070/6cd087d8-b02d-4c9f-a951-908427fe3c98)
+
+### Mobile
+
 
 Clone este repositório em sua máquina local.
 Abra o terminal na pasta do projeto e execute o seguinte comando para rodar o projeto
