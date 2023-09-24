@@ -13,7 +13,7 @@ const Footer = () => (
                 <p> Meu site:
                     <a href="https://athena272portfolio.vercel.app/" target="_blank" rel="noreferrer" >Portfólio</a>
                 </p>
-                <p>Instagram:
+                <p>Insta:
                     <a href="https://www.instagram.com/guigo_rosario/" target="_blank" rel="noreferrer">@guigo_rosario</a>
                 </p>
             </div>
