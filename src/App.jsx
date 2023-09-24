@@ -1,9 +1,9 @@
+import Routespage from './Routes/RoutesPage';
 import './App.css';
-import RoutesPage from './Routes/RoutesPage';
 
 const App = () => (
   <div className='App'>
-    <RoutesPage />
+    <Routespage />
   </div>
 );
 
