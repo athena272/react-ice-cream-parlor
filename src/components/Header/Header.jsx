@@ -1,13 +1,14 @@
 import { Link } from "react-router-dom";
+import './Header.css';
 
 const Header = () => (
     <header>
-        <div>
-            <img src="assets/logo.png" alt="logomarca" />
+        <div className="limitar-secao">
+            <Link to="/"><img src="assets/logo.png" alt="logomarca" /></Link>
             <nav>
-                <Link to="/">Home</Link>
-                <Link to="/flavors">Sabores</Link>
-                <Link to="/about">Sobre</Link>
+                <Link className="link-topo" to="/">Home</Link>
+                <Link className="link-topo" to="/flavors">Sabores</Link>
+                <Link className="link-topo" to="/about">Sobre</Link>
             </nav>
         </div>
     </header>
