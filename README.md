@@ -30,8 +30,7 @@ objetivo criar um site encantador para uma sorveteria virtual, oferecendo não a
 
 ### Mobile
 
-![image](https://github.com/athena272/ice-cream-parlor-react/assets/58920070/e12afdab-35e3-40b2-ae6f-fabeada970d6)
-
+![image](https://github.com/athena272/ice-cream-parlor-react/assets/58920070/aede0f0a-baff-46be-adca-e6ad3fe93d0d)
 
 ## Link de [Acesso](https://ice-cream-parlor-react.vercel.app/)
 
