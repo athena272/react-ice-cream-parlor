@@ -1,10 +1,7 @@
 import './AboutPage.css';
-import Header from '../../components/Header/Header'
-import Footer from '../../components/Footer/Footer'
 
 const AboutPage = () => (
     <div>
-        <Header />
         <main>
             <section className="secao-banner-sobre">
                 <div className="titulo-banner-sobre">
@@ -43,7 +40,6 @@ const AboutPage = () => (
                 </div>
             </section>
         </main>
-        <Footer />
     </div>
 );
 
