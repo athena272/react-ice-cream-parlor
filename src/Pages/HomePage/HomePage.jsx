@@ -1,11 +1,7 @@
-import Header from '../../components/Header/Header';
-import Footer from '../../components/Footer/Footer';
 import './HomePage.css';
 
 const HomePage = () => (
     <div>
-        <Header />
-
         <main>
             <section className="secao-banner">
                 <div className="texto-banner">
@@ -56,9 +52,6 @@ const HomePage = () => (
                 </div>
             </section>
         </main>
-
-        <Footer />
-
     </div>
 );
 
