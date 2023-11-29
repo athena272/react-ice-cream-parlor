@@ -1,10 +1,7 @@
-import Header from '../../components/Header/Header';
-import Footer from '../../components/Footer/Footer';
 import './FlavorsPage.css'
 
 const FlavorsPage = () => (
     <div>
-        <Header />
         <main>
             <section className="secao-banner-sabores">
                 <div className="titulo-banner-sabores">
@@ -47,10 +44,7 @@ const FlavorsPage = () => (
                     </div>
                 </div>
             </section>
-
         </main>
-
-        <Footer />
     </div>
 );
 
