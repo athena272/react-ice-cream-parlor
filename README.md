@@ -1,3 +1,5 @@
+## Link de [Acesso](https://ice-cream-parlor-react.vercel.app/)
+
 ## Recursos Principais:
 - **Navegação de Três Páginas:** O projeto inclui três páginas distintas, cada uma representando uma parte do site da sorveteria.
 - **Estruturação Organizada:** Haverá uma estrutura de pastas e arquivos organizada para o projeto, facilitando a manutenção e a legibilidade do código.
