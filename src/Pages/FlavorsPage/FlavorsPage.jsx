@@ -1,10 +1,7 @@
 import './FlavorsPage.css'
-import Header from '../../components/Header/Header'
-import Footer from '../../components/Footer/Footer'
 
 const FlavorsPage = () => (
-    <div>
-        <Header />
+    <>
         <main>
             <section className="secao-banner-sabores">
                 <div className="titulo-banner-sabores">
@@ -48,8 +45,7 @@ const FlavorsPage = () => (
                 </div>
             </section>
         </main>
-        <Footer />
-    </div>
+    </>
 );
 
 export default FlavorsPage;
