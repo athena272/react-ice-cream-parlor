@@ -10,7 +10,7 @@ main {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url('assets/banner-sobre.png');
+    background-image: url('public/assets/banner-sobre.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
